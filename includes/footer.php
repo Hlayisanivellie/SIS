@@ -180,21 +180,29 @@
         <div class="container">
             <div class="row custom-breaks">
                 <div class="col-lg-2">
-                    <a href="index.php"><img src="images/logo.png" class="mw-100 mb-3"
+                    <a href="index.php"><img src="images/logo1.png" class="mw-100 mb-3"
                             alt="Logo footer"></a>
                 </div>
                 <div class="col-lg-10">
 
                     <ul class="footer-nav">
-						<li><a href="#">Home</a></li>
                         <li><a href="#">About us</a></li>
                         <li><a href="#">Contact us</a></li>
                     </ul>
 
                     <div class="bottom-socials">
-                        <p class="mb-0">Copyright&nbsp;&copy;&nbsp;2024&nbsp;Reunert. All rights reserved.</p>
+                        <p class="mb-0">Copyright&nbsp;&copy;&nbsp;2024&nbsp;Spark Innovative Solutions. All rights reserved.</p>
 
-                  
+                        <!-- <ul class="policy-docs">
+                            <li><a href="sitemap.php">Sitemap</a></li>
+                            <li><a href="#" target="_blank">Privacy policy</a></li>
+                            <li><a href="#" target="_blank">Terms and conditions</a></li>
+                            <li><a href="code-of-ethics.php">Code of ethics </a></li>
+                            <li><a href="paia-manual.php">PAIA </a></li>
+                            <li><a href="disclaimer.php">Disclaimer </a></li>
+
+
+                        </ul>-->
 
                         <div class="social-icons">
                             <a href="#" target="_blank"><img src="images/footer/facebook.svg" alt=""></a>

@@ -69,7 +69,7 @@ span.icon-arrow-up:before {
             aria-label="Toggle navigation">
             <img src="images/navigation/hamburger.svg" class="nav-img" alt="">
         </button>
-        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="" class="nav-logo"></a>
+        <a class="navbar-brand" href="index.php"><img src="images/logo1.png" alt="" class="nav-logo"></a>
 
         <a class="d-flex d-lg-none search-logo" type="submit" href="search-results.php"><img
                 src="images/navigation/search.svg" class="nav-img" alt=""></a>
@@ -77,59 +77,16 @@ span.icon-arrow-up:before {
 
             <ul class="navbar-nav ms-8 me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link <?php echo $sectionNavHighlight['index']; ?>" aria-current="page"
-                        href="index.php">Home</a>
+                    <a class="nav-link <?php echo $sectionNavHighlight['index']; ?>" aria-current="page" href="index.php">Home</a>
                 </li>
 
                <li class="nav-item">
-                    <a class="nav-link down-drop <?php echo $sectionNavHighlightFin['two']; ?>" rel="about-us"
-                        href="overview.php">About us</a>
-                    <!--<div class="nav-drop-down" id="about-us">
-                        <p class="sec-title">About us</p>
-                        <div class="row">
-                            <div class="col-lg-6">
-
-                                <p class="sec-summary">Reunert manages a portfolio of businesses in the fields of
-Electrical Engineering, Information Communication
-Technologies dICTe and Applied Electronics.</p>
-                                <ul class="links-list">
-                                    <li><a href="#">????</a></li>
-                                    <li>
-                                        <a href="our-strategy.php">Group strategy</a>
-                                    </li>
-                                    <li>
-                                        <a href="our-history.php">Our history</a>
-                                    </li>
-                                    <li>
-                                        <a href="leadership.php">Leadership</a>
-                                    </li>
-                                    <li>
-                                        <a href="leadership.php?tab=tab2">Directors</a>
-                                    </li>
-                                    <li>
-                                        <a href="leadership.php?tab=tab3">Executives</a>
-                                    </li>
-                                 
-									<li>
-										<a href="governance.php">Corporate governance</a>
-                                    </li>                                    
-									
-                                </ul>
-                            </div>
-                            <div class="col-lg-6 align-self-center">
-                                <div class="img-holder">
-                                    <img src="images/navigation/investor-centre.png" alt="" class="mw-100">
-
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>-->
+                    <a class="nav-link down-drop <?php echo $sectionNavHighlightFin['two']; ?>" rel="about-us" href="#">About us</a>
+                
                 </li> 
                 
                 <li class="nav-item">
-                    <a class="nav-link  <?php echo $sectionNavHighlightFin['seven']; ?>" rel="sens"
-                        href="contact-us.php">Contact us</a>
+                    <a class="nav-link  <?php echo $sectionNavHighlightFin['seven']; ?>" rel="sens" href="#">Contact us</a>
 
                 </li>
 

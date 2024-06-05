@@ -71,7 +71,7 @@ nav.navbar {
     padding: 10px 0;
     transition: all .3s ease-in-out;
     z-index: 9999999999;
-    background-image: linear-gradient(to bottom, #000000b3, transparent 100%);
+    /*background-image: linear-gradient(to bottom, #000000b3, transparent 100%);*/background: linear-gradient(90deg, rgba(67, 169, 172, 1) -43%, rgba(16, 32, 67, 1) 90%);
 }
 
 .search-logo {

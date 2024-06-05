@@ -5,10 +5,10 @@ $section = "Home";
 $section2 = "";
 $sectionID = "one";
 $sectionID2 = "";
-$prevLink = "contact-us";
-$prevTitle = "Contact us";
-$nextLink = "overview";
-$nextTitle = "Overview";
+$prevLink = "search";
+$prevTitle = "Search";
+$nextLink = "about-us";
+$nextTitle = "About us";
 $prevSection = "footer";
 $nextSection = "About us";
 ?>
@@ -918,7 +918,7 @@ $nextSection = "About us";
                         <div class="row align-items-center h-100">
                             <div class="col-xl-5 col-lg-6 col-md-12">
                                 <h1 class="hero-title font-w-light wow fadeInUp ">
-                                    Lorem Ipsum is simply.
+                                    Intro ipsum may<br /> be used as a<br /> placeholder
                                 </h1>
 
 
@@ -941,9 +941,10 @@ $nextSection = "About us";
                             <div class="col-xl-5 col-lg-6 col-md-12">
 								
 									<div class="main-heading">
-										<h1 class="hero-title font-w-light wow fadeInUp">
-                                        Lorem Ipsum is simply two.
-										</h1>
+										<h1 class="hero-title font-w-light wow fadeInUp ">
+                                    Intro ipsum may<br /> be used as a<br /> placeholder
+                                </h1>
+
 									</div>
 								
                             </div>
@@ -968,17 +969,19 @@ $nextSection = "About us";
     <div class="bg-grad-top">
         <div class="container">
             <div class="row justify-around mb-3 gx-5">
-                <div class="col-lg-12">
-                    <p class="text-white  intro-small2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-when an unknown printer took a galley of type and scrambled it to make a type 
-specimen book. It has survived not only five centuries, but also the leap 
-into electronic typesetting, remaining essentially unchanged. It was popularised 
-in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-and more recently with desktop publishing software like Aldus PageMaker including 
-versions of Lorem Ipsum.</p>
+                <div class="col-lg-6 col-md-12 align-self-center">
+                    <p class="text-white  intro-small2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
 
+
+
+                <div class="col-lg-6 col-md-12">
+				
+			<p class="text-white  intro-small2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+                </div>
 
             </div>
         </div>
@@ -994,19 +997,17 @@ versions of Lorem Ipsum.</p>
                             <img src="images/home-grad-1.png" class="home-grad-1" alt="Electrical Engineering">
 
                             <img src="images/home-img-1.png" class="home-block-immaged-img1" alt="Electrical Engineering">
-                            <div class="home-block-immaged-hero-content"><img src="images/home-icon-triange.png" class="home-block-immaged-hero-content-img" alt="icon">Heading one</div>
+                            <div class="home-block-immaged-hero-content">H2 heading</div>
                         </div>
 
                         <div class="home-content-padboxed">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-
-
-                           
+                         
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
 
-                        <!--<div class="homeblocked-link-bottom">
-                            <a href="electrical-engineering.php" class="reunert-btn mb-0">Electrical Engineering</a>
-                        </div>-->
+                        <div class="homeblocked-link-bottom">
+                            <a href="#" class="reunert-btn mb-0">Link here</a>
+                        </div>
 
                     </div>
                 </div>
@@ -1018,20 +1019,17 @@ versions of Lorem Ipsum.</p>
 Technologies (ICT)">
 
                             <img src="images/home-img-2.png" class="home-block-immaged-img1" alt="Electrical Engineering">
-                            <div class="home-block-immaged-hero-content"><img src="images/home-icon-triange.png" class="home-block-immaged-hero-content-img" alt="icon">Heading two</div>
+                            <div class="home-block-immaged-hero-content">H2 heading</div>
                         </div>
 
                         <div class="home-content-padboxed">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-
-
-
+                         
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
 
-                        <!--<div class="homeblocked-link-bottom">
-                            <a href="ict.php" class="reunert-btn mb-0">Information Communication
-                                Technologies (ICT)</a>
-                        </div>-->
+                        <div class="homeblocked-link-bottom">
+                            <a href="#" class="reunert-btn mb-0">Link here</a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -1041,19 +1039,17 @@ Technologies (ICT)">
                             <img src="images/home-grad-3.png" class="home-grad-1" alt="Applied Electronics">
 
                             <img src="images/home-img-3.png" class="home-block-immaged-img1" alt="Electrical Engineering">
-                            <div class="home-block-immaged-hero-content"><img src="images/home-icon-triange.png" class="home-block-immaged-hero-content-img" alt="icon">Heading three</div>
+                            <div class="home-block-immaged-hero-content">H2 heading</div>
                         </div>
 
                         <div class="home-content-padboxed">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-
-
-
+                         
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
 
-                        <!--<div class="homeblocked-link-bottom">
-                            <a href="applied-electronics.php" class="reunert-btn mb-0">Applied Electronics</a>
-                        </div>-->
+                        <div class="homeblocked-link-bottom">
+                            <a href="#" class="reunert-btn mb-0">Link here</a>
+                        </div>
                     </div>
                 </div>
 
@@ -1062,222 +1058,41 @@ Technologies (ICT)">
     </div>
 
 
-    <div class="padding-60TB">
-        <div class="bg-drk-blue">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h2 class="mb-4 mt-5 text-white">Latest results &ndash; <span>FY24</span></h2>
 
-                        <div class="row gx-5">
-                            <div class="col-lg-7">
-                                <div class="bg-lblue-r-archive  mt-4">
 
-                                    <div class="row">
-                                        <div class="col-lg-7">
 
-                                            <p class="switch-dark-blue txt-dear-share">Dear Shareholder</p>
-
-                                            <p class="switch-dark-blue txt-dear-share">Reunert hereby wishes to invite you to the <span class="switch-dark-blue">pre-recorded webcast</span> for our interim results for the
-                                                half-year ended 31 March 2024. The virtual presentation will be followed
-                                                by a live <span class="switch-dark-blue">Q&A. </span></p>
-
-                                            <div class="row mt-5 ">
-                                                <div class="col-lg-2 align-self-center ms-3">
-                                                    <img src="images/icons/calendar-dates-wht-home.svg" class="mw-100" alt="Calendar icon">
-                                                </div>
-                                                <div class="col-lg-9 align-self-center">
-                                                    <p class="switch-dark-blue mb-0"><strong>H1 FY24 results
-                                                            presentation</strong> </p>
-                                                </div>
-                                            </div>
-
-                                            <div class="date-blk mt-4">
-                                                <p class="mb-0"><strong class="switch-dark-blue ">Date: </strong> <span class="switch-dark-blue txt-f-weight-3">Thursday, 23 May 2024</span>
-                                                </p>
-                                                <p class="mb-0"><strong class="switch-dark-blue ">Time: </strong> <span class="switch-dark-blue txt-f-weight-3">Webcast starts at 09:00
-                                                        SAST</span></p>
-                                                <p class="mb-0"><strong class="switch-dark-blue ">Live Q&A:
-                                                    </strong><span class="switch-dark-blue txt-f-weight-3">commences at about
-                                                        09:45</span></p>
-
-                                            </div>
-
-
-
-
-
-                                        </div>
-
-                                        <div class="col-lg-5">
-                                            <img src="images/live-q-and-a.png" class="mw-100" alt="Live Q and A cover">
-
-
-                                            <div class="row mt-4">
-                                                <div class="col-lg-8">
-                                                    <div class="qa-link">
-                                                        <a href="https://www.corpcam.com/Reunert23052024" target="_blank">Register for attendance
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-4">
-                                                    <img src="images/icons/benefits-arrow-1.svg">
-                                                </div>
-                                            </div>
-
-
-
-                                            <div class="bdr-qa-links my-3"></div>
-
-                                            <div class="row">
-                                                <div class="col-lg-8">
-                                                    <div class="qa-link">
-                                                        <a href="presentations.php">Presentation </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-4">
-                                                    <img src="images/icons/benefits-arrow-1.svg">
-                                                </div>
-                                            </div>
-
-
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="col-lg-5 mt-4">
-                                <div class="group-txt-results ">Reunert Limited Unaudited condensed consolidated
-interim financial statements<span>and cash dividend declaration for the six months ended 31 March</span></div>
-										
-
-
-
-
-                                <!--<div class="sens-btn-btm">
-
-                                    <a href="pdf/interim results/2024/interim-results-2024.pdf" target="_blank">
-                                        <div class="pagelink-holder pagelink-singlelink">
-                                            <div class="pagelink-holder-date">
-
-                                                <p class="mb-0 text-white">Group Audited Annual Financial Statements</p>
-                                            </div>
-
-                                            <div class="pagelink-holder-size">PDF 3.3MB <img src="images/icons/arrow-bottom-rec-white.svg"></div>
-                                        </div>
-                                    </a>
-
-                                </div>-->
-
-
-
-                                <div class="sens-btn-btm">
-
-                                    <a href="pdf/interim-results/2024/interim-results-2024.pdf" target="_blank">
-                                        <div class="pagelink-holder pagelink-singlelink">
-                                            <div class="pagelink-holder-date">
-
-                                                <p class="mb-0 text-white">Long-form announcement</p>
-                                            </div>
-
-                                            <div class="pagelink-holder-size">PDF 412KB <img src="images/icons/arrow-bottom-rec-white.svg"></div>
-                                        </div>
-                                    </a>
-
-                                </div>
-
-
-
-
-                                <div class="sens-btn-btm">
-
-                                    <a href="pdf/sens/2024/reunert-sens-short-form-22-may-2024-final.pdf" target="_blank">
-                                        <div class="pagelink-holder pagelink-singlelink">
-                                            <div class="pagelink-holder-date">
-
-                                                <p class="mb-0 text-white">SENS announcement</p>
-                                            </div>
-
-                                            <div class="pagelink-holder-size">PDF 1MB <img src="images/icons/arrow-bottom-rec-white.svg"></div>
-                                        </div>
-                                    </a>
-
-                                </div>
-
-
-                                <!--<div class="sens-btn-btm">
-
-                                    <a href="pdf/full year results/2023/full-year-results-presentation-2023.pdf" target="_blank">
-                                        <div class="pagelink-holder pagelink-singlelink">
-                                            <div class="pagelink-holder-date">
-
-                                                <p class="mb-0 text-white">Presentation</p>
-                                            </div>
-
-                                            <div class="pagelink-holder-size">PDF 2.8MB <img src="images/icons/arrow-bottom-rec-white.svg"></div>
-                                        </div>
-                                    </a>
-
-                                </div>-->
-
-
-                                <div class="sens-btn-btm sens-btn-btm-lst">
-
-                                    <a href="https://www.corpcam.com/Reunert23052024" target="_blank">
-                                        <div class="pagelink-holder pagelink-singlelink">
-                                            <div class="pagelink-holder-date">
-
-                                                <p class="mb-0 text-white">Webcast</p>
-                                            </div>
-
-                                            <div class="reunert-button-img2">
-
-                                                <img src="images/icons/get-in-toch-icon.svg">
-                                            </div>
-                                        </div>
-                                    </a>
-
-                                </div>
-
-
-
-                            </div>
-                        </div>
-
-
-                        <div class="row my-3 pb-5 mb-3">
-                           
-							
-							 <div class="col-lg-3">
-
-                                <a href="pdf/interim-results/2024/interim-results-2024.pdf" class="mb-0 reunert-btn-wht mb-2" target="_blank">Interim results 2024</a>
-
-                            </div>
-							
-							<div class="col-lg-2">
-
-                                <a href="reporting-and-results.php" class="mb-0 reunert-btn-wht mb-5">Results archive</a>
-
-                            </div>
-							
-                        </div>
-
-                    </div>
+<div class="bg-grad-top mt-5">
+        <div class="container">
+            <div class="row justify-around mb-3 gx-5">
+                <div class="col-lg-6 col-md-12 align-self-center">
+                    <p class="text-white  intro-small2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
 
 
-            </div>
 
+                <div class="col-lg-6 col-md-12">
+				
+			<p class="text-white  intro-small2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+                </div>
+
+            </div>
         </div>
     </div>
 
-    <div class="padding-60TB pt-0">
+
+
+
+
+
+
+    <div class="mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Quick links</h2>
+                    <h2>Main headings</h2>
 
                     <div class="row">
                         <div class="col-lg-6">
@@ -1298,119 +1113,23 @@ interim financial statements<span>and cash dividend declaration for the six mont
 
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-4 col-md-12">
-                                        <img src="images/reunert-ir-cover-2023.png" class="mw-100" alt="">
+                                    <div class="col-lg-12">
+                                        
+										
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										
+										
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										
+
+
+                                        <a href="#" class="reunert-btn mb-0 mt-0 reunert-btn-results reunert-btn-results-right">Link here</a>
+										
+										
                                     </div>
-                                    <div class="col-lg-8 col-md-12">
-
-                                        <div class="reports-btn-btm">
-
-                                            <a href="pdf/annual-reports/2023/Reunert-Integrated-Report-2023.pdf" target="_blank">
-                                                <div class="pagelink-holder pagelink-singlelink">
-                                                    <div class="pagelink-holder-date">
-
-                                                        <p class="mb-0 switch-dark-blue"><strong>Integrated Report</strong></p>
-                                                    </div>
-
-                                                    <div class="pagelink-holder-size switch-dark-blue">PDF 24MB <img src="images/icons/download-bottom-icon.svg"></div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-
-
-
-
-                                        <div class="reports-btn-btm">
-
-                                            <a href="pdf/annual-reports/2023/Reunert_notice-of-agm-2023.pdf" target="_blank">
-                                                <div class="pagelink-holder pagelink-singlelink">
-                                                    <div class="pagelink-holder-date">
-
-                                                        <p class="mb-0 switch-dark-blue"><strong>Notice of AGM</strong></p>
-
-                                                    </div>
-
-                                                    <div class="pagelink-holder-size switch-dark-blue">PDF 1.6MB <img src="images/icons/download-bottom-icon.svg"></div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-
-
-
-
-                                        <div class="reports-btn-btm">
-
-                                            <a href="pdf/annual-reports/2023/AGM-Participation-Form-2023.pdf" target="_blank">
-                                                <div class="pagelink-holder pagelink-singlelink">
-                                                    <div class="pagelink-holder-date">
-
-                                                        <p class="mb-0 switch-dark-blue"><strong>Participation Form</strong></p>
-
-                                                    </div>
-
-                                                    <div class="pagelink-holder-size switch-dark-blue">PDF 62KB <img src="images/icons/download-bottom-icon.svg"></div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-
-
-                                        <div class="reports-btn-btm">
-
-                                            <a href="pdf/annual-reports/2023/Reunert-AGM-2023-Proxy-Form.pdf" target="_blank">
-                                                <div class="pagelink-holder pagelink-singlelink">
-                                                    <div class="pagelink-holder-date">
-
-                                                        <p class="mb-0 switch-dark-blue"><strong>Form Of Proxy</strong></p>
-
-                                                    </div>
-
-                                                    <div class="pagelink-holder-size switch-dark-blue">PDF 58KB <img src="images/icons/download-bottom-icon.svg"></div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-
-
-
-
-
-                                        <div class="reports-btn-btm">
-
-                                            <a href="pdf/annual-reports/2023/FORM-BBBEE-1-Compliance-Report-FY2023.pdf" target="_blank">
-                                                <div class="pagelink-holder pagelink-singlelink">
-                                                    <div class="pagelink-holder-date">
-
-                                                        <p class="mb-0 switch-dark-blue"><strong>B-BBEE Compliance Report</strong></p>
-
-                                                    </div>
-
-                                                    <div class="pagelink-holder-size switch-dark-blue">PDF 628KB <img src="images/icons/download-bottom-icon.svg"></div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-
-
-                                        <div class="reports-btn-btm">
-
-                                            <a href="pdf/annual-reports/2023/Reunert-BBBEE-Certificate-2023.pdf" target="_blank">
-                                                <div class="pagelink-holder pagelink-singlelink">
-                                                    <div class="pagelink-holder-date">
-
-                                                        <p class="mb-0 switch-dark-blue"><strong>B-BBEE Verification Certificate</strong></p>
-
-                                                    </div>
-
-                                                    <div class="pagelink-holder-size switch-dark-blue">PDF 630KB <img src="images/icons/download-bottom-icon.svg"></div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-
-                                    </div>
+                                    
                                 </div>
 
                             </div>
@@ -1424,24 +1143,26 @@ interim financial statements<span>and cash dividend declaration for the six mont
 
                                 <div class="row mb-4">
 
-                                    <div class="col-lg-6">
+                                    <div class="col-lg-12">
 
 
-                                        <h3 class="switch-dark-blue fw-800"><strong>Latest news</strong></h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										
+										
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										
+										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+										
 
-                                    </div>
 
-                                    <div class="col-lg-6">
-
-                                        <a href="media-release.php" class="reunert-btn mb-0 mt-0 reunert-btn-results reunert-btn-results-right">News
-                                            archive</a>
+                                        <a href="#" class="reunert-btn mb-0 mt-0 reunert-btn-results reunert-btn-results-right">Link here</a>
 
                                     </div>
 
                                 </div>
 
 
-                                <?php include('includes/news.php'); ?>
+                          
 
 
                             </div>
@@ -1455,119 +1176,14 @@ interim financial statements<span>and cash dividend declaration for the six mont
 
 
 
-    <div class="container-calendar  pt-5 pb-5">
-        <div class="container ">
-
-            <h2 class="text-center">Financial calendar </h2>
-
-            <div class="row align-items-center mb-4 mt-5 gx-5">
-
-                <?php include('includes/calendar.php'); ?>
-
-            </div>
-
-
-            <div class="row mt-5">
-                <div class="col-lg-6">
-                    <a href="financial-calendar.php" class="reunert-btn mb-0">Financial calendar</a>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-    <div class="container">
-
-        <div class="row mb-5 mt-5">
-
-            <div class="col-lg-6">
-
-                <h2 class="mt-5">Values</h2>
-
-                <!--<p class="intro-med-home switch-dblue mb-2"><strong>Reunert's purpose</strong></p>
-				<p class="intro-med-home switch-green">"We are driven to enable<br /> our customers' success."</p>-->
-
-                <h2 class="mt-5 mb-2">Group values</h2>
-
-                <ul class="list-green">
-                    <li>Places customers at the centre of our engagement model</li>
-                    <li>Creates technology solutions that enable our customers' purpose</li>
-                </ul>
-
-
-
-                <a href="code-of-ethics.php" class="reunert-btn mb-0 mt-5">Code of ethics</a>
-
-            </div>
-
-            <div class="col-lg-6 align-self-center">
-
-                <img src="images/values-compass.png" alt="" class="mw-100 mt-4">
-
-            </div>
-
-        </div>
-
-
-    </div>
 
 
 
 
 
 
-        <div class="container">
 
-
-
-           <h2 class="mt-5">The foundations of the Reunert brand</h2>
-		   
-			
-			<div class="row">
-				<div class="col-lg-4 col-md-4 text-center">
-				
-				<img src="images/mission-icon1.png" alt="" class="mw-100 mb-3">
-				
-				<h4>PURPOSE</h4>
-				<p>A compelling<br /> expression of why<br />we do what we do.</p>
-				
-				<p>"Reunert empowers industries<br /> driving society towards a sustainable future<br /> that is connected, efficient and safe".</p>
-				
-				</div>
-			
-				<div class="col-lg-4 col-md-4 text-center">
-				
-				<img src="images/purpose-icon1.png" alt="" class="mw-100 mb-3">
-				
-				<h3>MISSION</h3>
-				<p>How we are going to<br /> organise ourselves<br /> to achieve it.</p>
-				
-				<p>"Reunert invests in talent<br /> and innovative technologies that<br />create solutions for a sustainable world".</p>
-				
-				</div>
-				
-				<div class="col-lg-4 col-md-4 text-center">
-				
-				<img src="images/vision-icon1.png" alt="" class="mw-100 mb-3">
-				
-				<h3>VISION</h3>
-				<p>A clear picture of<br /> the world we want to<br /> help create.</p>
-				
-				<p>"Reunert enables people<br /> and the planet to  thrive through<br />our innovative technologies and solutions".</p>
-				
-				</div>
-			</div>
-			
-			
-			<p class="intro-med-home mb-5 mt-5 text-center switch-dblue"><strong>Our Identity. Our Values. Our Code of Ethics</strong></p>
-			
-
-        </div>
-
-
-
-
-    <div class="our-purpose pt-5 pb-5">
+    <div class="our-purpose pt-5 mt-5 pb-5">
         <div class="container ">
 
 
@@ -1576,22 +1192,21 @@ interim financial statements<span>and cash dividend declaration for the six mont
 
                 <div class="col-lg-4">
 
-                    <h2 class="mt-3 switch-dark-blue">Whistleblowing</h2>
+                    <h2 class="mt-3 switch-dark-blue">Main heading</h2>
 
                 </div>
 
                 <div class="col-lg-5">
 
 
-                    <p class="intro-med-home mb-0">Reunert has a whistle-blowing programme that gives employees and
-                        suppliers the opportunity to anonymously report perceived cases of unethical practice.</p>
+               <p class="intro-med-home mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
 
                 </div>
 
                 <div class="col-lg-3">
 
-                    <a href="pdf/whistleblower-policy-June-2023.pdf" target="_blank" class="reunert-btn mb-0" style="float: right;">Whistleblowing</a>
+                    <a href="#" target="_blank" class="reunert-btn mb-0" style="float: right;">Link here</a>
 
                 </div>
 
